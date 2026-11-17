@@ -13,10 +13,10 @@ A hands-on exploration of the Vulkan graphics API.
 ## Progress
 
 - [x] Vulkan instance
-- [ ] Validation layers
-- [ ] Physical device selection
-- [ ] Logical device
-- [ ] Swapchain
+- [x] Validation layers
+- [x] Physical device selection
+- [x] Logical device
+- [x] Swapchain
 - [ ] Graphics pipeline
 - [ ] Textures
 - [ ] Uniform buffers
